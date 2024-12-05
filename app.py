@@ -6,7 +6,7 @@ llm = Ollama(model='llama3.2')
 # print (llm.invoke('Tell me another  joke'))
 
 def chat_page():
-    st.header("Wee chat", divider=True)
+    st.header("ilhama chat", divider=True)
     # st.text(llm.invoke('Tell me another  joke'))
     
     prompt = st.chat_input("Let's talk")
