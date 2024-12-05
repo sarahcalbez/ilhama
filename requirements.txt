@@ -1,0 +1,3 @@
+llangchain
+langchain_community
+streamlit
